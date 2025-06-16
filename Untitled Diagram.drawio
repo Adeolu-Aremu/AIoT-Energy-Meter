@@ -25,7 +25,7 @@
             <mxPoint x="440" y="270" as="targetPoint" />
             <Array as="points">
               <mxPoint x="400" y="675" />
-              <mxPoint x="400" y="290" />
+              <mxPoint x="400" y="360" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -49,6 +49,12 @@
         </mxCell>
         <mxCell id="UsbTpY0gdDbQ-GkFnXvP-34" value="&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;Process Data on ESP32;&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;Format and Analyze&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;Sensor Data&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="156.25" y="380" width="162.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UsbTpY0gdDbQ-GkFnXvP-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UsbTpY0gdDbQ-GkFnXvP-34" target="UsbTpY0gdDbQ-GkFnXvP-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="460" as="sourcePoint" />
+            <mxPoint x="238" y="480" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
