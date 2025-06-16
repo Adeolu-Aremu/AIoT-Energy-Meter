@@ -1,36 +1,23 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="882" dy="1641" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="UsbTpY0gdDbQ-GkFnXvP-0" value="&lt;font face=&quot;Times New Roman&quot;&gt;START&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="30" width="75" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UsbTpY0gdDbQ-GkFnXvP-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UsbTpY0gdDbQ-GkFnXvP-1" target="UsbTpY0gdDbQ-GkFnXvP-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="UsbTpY0gdDbQ-GkFnXvP-1" value="&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;Read Parameters&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;from PZEM&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Sensor;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;Voltage&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;Current&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;Power&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;Energy&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="148.75" y="240" width="177.5" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="UsbTpY0gdDbQ-GkFnXvP-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;FORMAT AND ANALYZE SENSOR DATA&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UsbTpY0gdDbQ-GkFnXvP-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UsbTpY0gdDbQ-GkFnXvP-8" target="UsbTpY0gdDbQ-GkFnXvP-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UsbTpY0gdDbQ-GkFnXvP-8" value="&lt;font face=&quot;Times New Roman&quot;&gt;DISPLAY ON LCD AND&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;BLYNK APP/CONSOLE&lt;/font&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="130" y="485" width="170" height="60" as="geometry" />
+        <mxCell id="UsbTpY0gdDbQ-GkFnXvP-8" value="&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Show Real-Time Values;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;Display Data on LCD&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;Send Data to Blynk&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;&amp;nbsp;Server (via WI-Fi)&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="152.5" y="530" width="170" height="85" as="geometry" />
         </mxCell>
         <mxCell id="UsbTpY0gdDbQ-GkFnXvP-12" value="&lt;font face=&quot;Times New Roman&quot;&gt;END&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="780" width="75" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="UsbTpY0gdDbQ-GkFnXvP-23" value="" style="endArrow=open;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UsbTpY0gdDbQ-GkFnXvP-2" target="UsbTpY0gdDbQ-GkFnXvP-8">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="320" as="sourcePoint" />
-            <mxPoint x="390" y="400" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="UsbTpY0gdDbQ-GkFnXvP-24" value="" style="endArrow=open;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endFill=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UsbTpY0gdDbQ-GkFnXvP-26" target="UsbTpY0gdDbQ-GkFnXvP-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -46,19 +33,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UsbTpY0gdDbQ-GkFnXvP-26" value="&lt;font face=&quot;Times New Roman&quot;&gt;SWITCH ON&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="140" y="570" width="120" height="70" as="geometry" />
+          <mxGeometry x="156.25" y="660" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="UsbTpY0gdDbQ-GkFnXvP-28" value="&lt;h6&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Times New Roman&quot;&gt;YES&lt;/font&gt;&lt;/span&gt;&lt;/h6&gt;&lt;div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="270" y="420" width="50" height="70" as="geometry" />
         </mxCell>
         <mxCell id="UsbTpY0gdDbQ-GkFnXvP-30" value="&lt;h6&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Times New Roman&quot;&gt;NO&lt;/font&gt;&lt;/span&gt;&lt;/h6&gt;&lt;div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="217.5" y="480" width="40" height="70" as="geometry" />
+          <mxGeometry x="282.5" y="615" width="40" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="UsbTpY0gdDbQ-GkFnXvP-31" value="&lt;div&gt;Start System&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Initialize Components&lt;/div&gt;&lt;div&gt;· PZEM AC Sensors&lt;/div&gt;&lt;div&gt;· ESP32 Microcontroller&lt;/div&gt;&lt;div&gt;· LCD Display&lt;/div&gt;&lt;div&gt;. Connect to Wi-Fi&lt;/div&gt;&lt;div&gt;. Connect to Blynk Server&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Read Parameters from PZEM&lt;/div&gt;&lt;div&gt;Sensor&lt;/div&gt;&lt;div&gt;· Voltage&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;· Voltage&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;. Active Power&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;. Current&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;· Energy&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;· Energy&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;. Power Factor&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;. Power Factor&lt;/div&gt;&lt;div&gt;· Frequency&lt;/div&gt;&lt;div&gt;Process Data on ESP32&lt;/div&gt;&lt;div&gt;Format and Analyze Sensor Data&lt;/div&gt;&lt;div&gt;Display Data on LCD&lt;/div&gt;&lt;div&gt;Show Real-Time Values&lt;/div&gt;&lt;div&gt;Send Data to Blynk Server (via WI-Fi)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Repeat Steps 3-8 Continuously&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Use Virtual Pins for each parameter&lt;/div&gt;&lt;div&gt;Access Data Remotely via Blynk&lt;/div&gt;&lt;div&gt;· Web Console&lt;/div&gt;&lt;div&gt;. Mobile App&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;End&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="440" y="-217" width="220" height="600" as="geometry" />
+        <mxCell id="UsbTpY0gdDbQ-GkFnXvP-31" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Process Data on ESP32&lt;/div&gt;&lt;div&gt;Format and Analyze Sensor Data&lt;/div&gt;&lt;div&gt;Display Data on LCD&lt;/div&gt;&lt;div&gt;Show Real-Time Values&lt;/div&gt;&lt;div&gt;Send Data to Blynk Server (via WI-Fi)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Repeat Steps 3-8 Continuously&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Use Virtual Pins for each parameter&lt;/div&gt;&lt;div&gt;Access Data Remotely via Blynk&lt;/div&gt;&lt;div&gt;· Web Console&lt;/div&gt;&lt;div&gt;. Mobile App&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;End&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="460" y="140" width="220" height="230" as="geometry" />
         </mxCell>
         <mxCell id="UsbTpY0gdDbQ-GkFnXvP-32" value="&lt;span style=&quot;text-wrap-mode: nowrap; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Initialize Components;&lt;/font&gt;&lt;/span&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;PZEM AC Sensors&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;ESP32 Microcontroller&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font&gt;LCD Display&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Connect to Wi-Fi&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Connect to Blynk Server&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="156.25" y="100" width="162.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="UsbTpY0gdDbQ-GkFnXvP-34" value="&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;Process Data on ESP32;&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;Format and Analyze&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;Sensor Data&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="156.25" y="380" width="162.5" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
