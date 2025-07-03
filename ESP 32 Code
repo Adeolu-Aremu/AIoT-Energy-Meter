@@ -1,7 +1,6 @@
-/*************************************************************
+/*****************************************************************************************
   Dual PZEM Energy Meter with AI Prediction, Keypad, LCD, Relays, Blynk, and Serial Print
-  Format strictly follows proper Blynk ESP32 integration.
-*************************************************************/
+******************************************************************************************/
 
 // Blynk Cloud template and authentication info
 #define BLYNK_TEMPLATE_ID   "TMPL2soKZpER7"            // Unique Blynk Template ID
@@ -431,7 +430,7 @@ void setup() {
   timer.setInterval(5000L, sendBlynk);
   timer.setInterval(2500L, updateLCD);
   timer.setInterval(1000L, enforceLimits);
-  // timer.setInterval(200L, handleKeypad); // Disabled keypad scan (replaced by pollKeypad)
+  // timer.setInterval(200L, handleKeypad); // Disabled keypad scan
   timer.setInterval(500L, clearTempMessage);
   timer.setInterval(60000L, fetchPrediction);  // Call ML API every 1 min
 }
