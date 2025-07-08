@@ -1,34 +1,28 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.2.0">
   <diagram name="Page-1" id="2GFnNqMykJW-lQz7iASZ">
-    <mxGraphModel dx="1320" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1403" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="R_LKt-H6HnUxROUlf7M2-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;START&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="237.5" y="70" width="75" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="R_LKt-H6HnUxROUlf7M2-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R_LKt-H6HnUxROUlf7M2-2" target="R_LKt-H6HnUxROUlf7M2-10">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="237.5" y="90" width="75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="R_LKt-H6HnUxROUlf7M2-2" value="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;P&lt;/span&gt;repare 24-Hour Input&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 14px; font-family: &amp;quot;Times New Roman&amp;quot;; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Sequence&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="186.25" y="280" width="177.5" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="R_LKt-H6HnUxROUlf7M2-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R_LKt-H6HnUxROUlf7M2-4" target="R_LKt-H6HnUxROUlf7M2-18">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="186.25" y="227" width="177.5" height="43" as="geometry" />
         </mxCell>
         <mxCell id="R_LKt-H6HnUxROUlf7M2-4" value="&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px;&quot;&gt;Receive API&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px;&quot;&gt;Response&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="543" width="190" height="85" as="geometry" />
+          <mxGeometry x="180" y="371" width="190" height="37" as="geometry" />
         </mxCell>
         <mxCell id="R_LKt-H6HnUxROUlf7M2-5" value="&lt;font face=&quot;Times New Roman&quot;&gt;END&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="237.5" y="913" width="75" height="40" as="geometry" />
+          <mxGeometry x="237.5" y="719" width="75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="R_LKt-H6HnUxROUlf7M2-6" value="" style="endArrow=open;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endFill=0;exitPerimeter=0;" edge="1" parent="1" source="R_LKt-H6HnUxROUlf7M2-8" target="R_LKt-H6HnUxROUlf7M2-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="427.5" y="360" as="sourcePoint" />
             <mxPoint x="477.5" y="310" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="398" y="828" />
-              <mxPoint x="397.5" y="330" />
+              <mxPoint x="400" y="634" />
+              <mxPoint x="400" y="249" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -36,28 +30,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="R_LKt-H6HnUxROUlf7M2-8" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Switch ON&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="206.25" y="783" width="137.5" height="90" as="geometry" />
+          <mxGeometry x="206.25" y="589" width="137.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="R_LKt-H6HnUxROUlf7M2-9" value="&lt;h6&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Times New Roman&quot;&gt;NO&lt;/font&gt;&lt;/span&gt;&lt;/h6&gt;&lt;div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="271.5" y="850" width="40" height="70" as="geometry" />
+          <mxGeometry x="271.5" y="656" width="40" height="70" as="geometry" />
         </mxCell>
         <mxCell id="R_LKt-H6HnUxROUlf7M2-10" value="&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;font-size: 14px; font-family: &amp;quot;Times New Roman&amp;quot;; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Send HTTPS&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;font-size: 14px; font-family: &amp;quot;Times New Roman&amp;quot;; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;POST&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px;&quot;&gt;Request&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="193.75" y="420" width="162.5" height="70" as="geometry" />
+          <mxGeometry x="193.75" y="299" width="162.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="R_LKt-H6HnUxROUlf7M2-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="R_LKt-H6HnUxROUlf7M2-10" target="R_LKt-H6HnUxROUlf7M2-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="267.5" y="500" as="sourcePoint" />
-            <mxPoint x="275.5" y="520" as="targetPoint" />
+            <mxPoint x="267.5" y="493" as="sourcePoint" />
+            <mxPoint x="275.5" y="513" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="R_LKt-H6HnUxROUlf7M2-12" value="&lt;h6&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Times New Roman&quot;&gt;YES&lt;/font&gt;&lt;/span&gt;&lt;/h6&gt;&lt;div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="330" y="783" width="50" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="R_LKt-H6HnUxROUlf7M2-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="R_LKt-H6HnUxROUlf7M2-2" target="R_LKt-H6HnUxROUlf7M2-10">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="267.5" y="530" as="sourcePoint" />
-            <mxPoint x="267.5" y="583" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="330" y="589" width="50" height="70" as="geometry" />
         </mxCell>
         <mxCell id="R_LKt-H6HnUxROUlf7M2-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="R_LKt-H6HnUxROUlf7M2-15" target="R_LKt-H6HnUxROUlf7M2-2">
           <mxGeometry relative="1" as="geometry">
@@ -66,7 +54,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="R_LKt-H6HnUxROUlf7M2-15" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-wrap-mode: nowrap; background-color: transparent;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Initialize&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-wrap-mode: nowrap; background-color: transparent;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;HTTPS&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px; font-family: &amp;quot;Times New Roman&amp;quot;; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-wrap-mode: nowrap;&quot;&gt;Client&lt;/span&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="160" width="190" height="90" as="geometry" />
+          <mxGeometry x="200" y="160" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="R_LKt-H6HnUxROUlf7M2-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="R_LKt-H6HnUxROUlf7M2-1" target="R_LKt-H6HnUxROUlf7M2-15">
           <mxGeometry relative="1" as="geometry">
@@ -74,11 +62,17 @@
             <mxPoint x="267.5" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="R_LKt-H6HnUxROUlf7M2-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="R_LKt-H6HnUxROUlf7M2-18" target="R_LKt-H6HnUxROUlf7M2-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="R_LKt-H6HnUxROUlf7M2-18" value="&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Denormalize&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Prediction&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="193.75" y="670" width="162.5" height="70" as="geometry" />
+          <mxGeometry x="193.75" y="440" width="162.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="R_LKt-H6HnUxROUlf7M2-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="R_LKt-H6HnUxROUlf7M2-2" target="R_LKt-H6HnUxROUlf7M2-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="210" as="sourcePoint" />
+            <mxPoint x="270" y="237" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R_LKt-H6HnUxROUlf7M2-25" value="&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Display Next&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 14px; font-family: &amp;quot;Times New Roman&amp;quot;; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Hourly&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;font-size: 14px; font-family: &amp;quot;Times New Roman&amp;quot;; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Energy Consumption&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;on Blynk and LCD&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="510" width="190" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
